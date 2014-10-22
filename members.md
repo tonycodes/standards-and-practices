@@ -44,6 +44,7 @@ Format:
 | **Name** | **GitHub** | **Notes** |
 |:---------|:-----------|:----------|
 | Aaron Chaput | [achaput](https://github.com/achaput) | I know Java. I hoping to learn how to work on a large project. |
+| Tony James | [tonycodes](https://github.com/tonycodes) | PHP/Laravel Develoepr learning the ropes on Git. |
 | Aaron Killen | [akillen](https://github.com/akillen) | C#, VB.net enterprise experience. PHP in a past life. Currently learning Ruby and game dev. |
 | Aaron Wilson | [Jazztoken](https://github.com/jazztoken) | Looking to climb past the basics of programming. Learning Python and web development. |
 | Abhinav Desor | [adesor](https://github.com/adesor) | I know Java, C and Python. Looking forward to contributing to open source projects. |
